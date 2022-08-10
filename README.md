@@ -1,5 +1,4 @@
 # RTL-design-using-Verilog-with-SKY130-Technology
-![Verilog-flyer](https://user-images.githubusercontent.com/104454253/166084640-128e6351-1739-4b38-a3ce-76459da921b5.png)
 # Table of contents
  - [1. Introduction](#1-Introduction)
  - [2. Day-1- Introduction to Verilog RTL design and Synthesis](#2-Day-1--Introduction-to-Verilog-RTL-design-and-Synthesis)
@@ -52,7 +51,8 @@ This report is a final submission of 5-day workshop from [VLSI Sytem Design-IAT]
 	endmodule
 
 **Test Bench**: Using Verilog we can write a test bench to apply stimulus to the RTL design and verify the results of the design by instantiating design with in test bench. Up-front verification becomes very important as design size increases in size and complexity while any project progresses. This ensures simulation results matches with post synthesis results. A test bench can have two parts, the one generates input signals for the model to be tested while the other part checks the output signals from the design under test. It can be represented as follows.
-![Capture2](https://user-images.githubusercontent.com/104454253/166088950-634be5a4-7d5a-4b43-9990-711f8f660aaf.JPG)
+![Pic1](https://user-images.githubusercontent.com/69398841/183956316-0459310c-8e80-43a8-bf48-6548e843c8e6.png)
+
 
 **Simulation**: RTL design is checked for adherence to its design specification using simulation by giving sample inputs. This helps finding and fixing bugs in the RTL design in the early stages of design development. 
 
