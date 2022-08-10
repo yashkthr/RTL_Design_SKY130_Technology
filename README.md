@@ -25,3 +25,6 @@ A report on 5 day workshop on RTL design and synthesis using opensource tools - 
     - [5.2 Looping Constructs in Verilog](#52-Looping-Constructs-in-Verilog)
   - [Acknowledgement](#6-Acknowledgment)
  
+# 1. Introduction to Verilog RTL Design and Synthesis
+
+## 1.1 Introduction
