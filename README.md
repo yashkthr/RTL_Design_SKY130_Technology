@@ -1,4 +1,4 @@
-# RTL-design-using-Verilog-with-SKY130-Technology
+# RTL design using Verilog with SKY130 Technology
 # Table of contents
  - [1. Introduction](#1-Introduction)
  - [2. Day-1- Introduction to Verilog RTL design and Synthesis](#2-Day-1--Introduction-to-Verilog-RTL-design-and-Synthesis)
