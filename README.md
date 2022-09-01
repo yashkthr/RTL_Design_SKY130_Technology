@@ -1,35 +1,4 @@
 # Workshop-RTL-Design-using-Verilog-with-Sky130Tech
-
-<img src="images/Verilog-flyer.png">
-
-## Table Of Contents 
-  * ### [Project Scope](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#project-scope)
-  * ### [Getting Started](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#getting-started)
-  * ### [Introduction to Verilog RTL Design & Synthesis](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#day-1----introduction-to-verilog-rtl-design-and-synthesis)
-    * #### [Setting up libraries & lab instances](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-1----setup-the-lab-instance-with-libraries-and-verilog-files)
-    * #### [iverilog Simulation of 2:1 MUX RTL Design](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-2---simulation-using-iverilog-simulator---21-multiplexer-rtl-design)
-    * #### [Synthesis using YOSYS Tool](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-3----synthesis-using-yosys-open-source-tool)
-  * ### [Timing libs, Hierarchical vs Flat Synthesis & Efficient FlipFlop coding styles](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#day-2---timing-libs-hierarchical-vs-flat-synthesis--efficient-flipflop-coding-styles)
-    * #### [The .lib file](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-1---more-about-the-lib-file)
-    * #### [Hierarchical vs Flat Synthesis](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-2---hierarchical-vs-flat-synthesis)
-    * #### [Efficient Flipflop Coding Styles & Optimizations](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-3---efficient-flip-flop-coding-styles-and-optimizations)
-  * ### [Combinational & Sequentail Optimizations](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#day-3---combinational-and-sequential-optimizations)
-    * #### [Intro to Combinational Logic Optimizations](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-1---intro-to-combinational-logic-optimizations)
-    * #### [Intro to Sequential Logic Optimizations](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-2---intro-to-sequential-logic-optimizations)
-    * #### [Sequential Logic Optimizations of Un-used Outputs](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-3---sequential-logic-optimizations-of-un-used-outputs)
-  * ### [Gate Level Simulation (GLS), Blocking vs Non-blocking & Synthesis-Simulation Mismatch](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#day-4---gate-level-simulationgls-blocking-vs-non-blocking-and-synthesis-simulation-mismatch)
-    * #### [Gate Level Simulation (GLS)](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#part-1---what-is-gate-level-simulation-gls-)
-    * #### [Synthesis - Simulation Mismatches](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#part-2---synthesis---simulation-mismatches)
-    * #### [Blocking vs Non-blocking Assignments](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#blocking-vs-non-blocking-assignments)
-  * ### [IF..CASE Statments & For Loop..For generate](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#ifcase-statments--for-loopfor-generate)
-    * #### [IF.. Statements](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#part-1---if-statements)
-    * #### [CASE.. Statements](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#part-2---case-statements)
-    * #### [FOR..loop vs FOR..GENERATE Statements](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#part-3---forloop-vs-forgenerate-statements)
-  * ### [ACKNOWLEDGEMENTS](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#acknowledgements)
-  * ### [References](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#references)
-
-
-
 ## Project Scope
 
 The project provides a detailed account of the 5-day workshop facilitated by VSD on RTL Design in Verilog using the SKY130 Technology. 
